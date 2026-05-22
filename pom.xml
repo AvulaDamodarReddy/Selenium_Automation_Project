@@ -11,7 +11,11 @@
 			<artifactId>selenium-java</artifactId>
 			<version>4.39.0</version>
 		</dependency>
-
+<dependency>
+    <groupId>io.github.bonigarcia</groupId>
+    <artifactId>webdrivermanager</artifactId>
+    <version>5.6.2</version>
+</dependency>
 		<!-- pdfbox to read data from pdf file-->
 		<dependency>
 			<groupId>org.apache.pdfbox</groupId>
